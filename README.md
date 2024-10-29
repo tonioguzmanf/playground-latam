@@ -5,7 +5,7 @@
 [Crea](https://app.flutterflow.io/create-account) tu cuenta de FlutterFlow. Si ya tienes una cuenta, [inicia sesión](https://app.flutterflow.io/)
 
 ##### 1.
-Clona tu proyecto de FlutterFlow desde esta [URL](example.com) y completa la UI e implementa la funcionalidad esperada.
+Clona tu proyecto de FlutterFlow desde esta [URL]([example.com](https://app.flutterflow.io/project/a-i-playground-copy-lhwd1k)) y completa la UI e implementa la funcionalidad esperada.
 
 ##### 2.
 Despliega tu backend de acuerdo a las siguientes [instrucciones](https://github.com/tonioguzmanf/back-playground-latam).
